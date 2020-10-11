@@ -25,3 +25,6 @@ Implemented the upload program.(Additionally, CGLIB was added only for the Java 
 ##### (The project implemented file upload based on Spring Framework 4.2.4 Releases.)
 ##### 2. Apache의 Commons-io, Apache Common-FileUpload를 적용하여 작업하였다.
 ##### (It worked by applying Apache Commons-io, Apache Common-FileUpload.)
+
+### 2. 시연(Practices)
+##### 1. Spring Framework 4.2.4 - Common-fileupload, IO,  Spring Style - java 설정, https://youtu.be/CZPwGN7BVHw, Accessed by 2020-10-11, Last Modified 2020-10-11.
