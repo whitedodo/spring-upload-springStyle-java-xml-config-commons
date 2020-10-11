@@ -27,4 +27,5 @@ Implemented the upload program.(Additionally, CGLIB was added only for the Java 
 ##### (It worked by applying Apache Commons-io, Apache Common-FileUpload.)
 
 ### 2. 시연(Practices)
-##### 1. Spring Framework 4.2.4 - Common-fileupload, IO,  Spring Style - java 설정, https://youtu.be/CZPwGN7BVHw, Accessed by 2020-10-11, Last Modified 2020-10-11.
+##### 1. Spring Framework 4.2.4 - Commons-fileupload, IO,  Spring Style - java 설정, https://youtu.be/CZPwGN7BVHw, Accessed by 2020-10-11, Last Modified 2020-10-11.
+##### 2. Spring Framework 4.2.4 - Commons-fileupload, IO,  Spring Style - xml 설정, https://youtu.be/eojQdp727ZQ, Accessed by 2020-10-11, Last Modified 2020-10-11.
