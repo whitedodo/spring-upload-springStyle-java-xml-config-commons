@@ -27,7 +27,7 @@ Spring Framework 4.2.4를 기반으로 Commons-io, Commons-FileUpload, CGLIB를 
 ##### (It worked by applying Apache Commons-io, Apache Common-FileUpload and CGLIB.)
 
 ### 2. 시연(Demonstration)
-##### 1. , , Accessed by 2020-09-26, Last Modified 2020-09-26.
+##### 1. Spring Framework 4.2.4 - Common-fileupload, IO,  Spring Style - java 설정, https://youtu.be/CZPwGN7BVHw, Accessed by 2020-10-11, Last Modified 2020-10-11.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-26, Last Modified .
